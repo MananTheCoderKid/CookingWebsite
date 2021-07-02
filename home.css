@@ -1,0 +1,93 @@
+body {
+    background-image: linear-gradient(#54b8cc, #00BD9F, #00F6A0);
+}
+
+#h1_1 {
+    font-size: 40px;
+    color: #1aac82;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ThankingMessage {
+    font-size: 40px;
+    color: seagreen;
+    font-family: cursive;
+}
+
+#h2_1 {
+    font-size: 35px;
+    color: indigo;
+    font-family: fantasy;
+}
+
+#h3_1 {
+    font-size: 30px;
+    color: rgb(85, 5, 85);
+}
+
+#h4_1 {
+    font-size: 25px;
+    color: rgb(83, 30, 136);
+}
+
+p {
+    font-size: 20px;
+    color: indigo;
+    font-family: sans-serif;
+}
+
+img {
+    height: 400px;
+    width: 500px;
+}
+
+#coffee_cake {
+    background-image: linear-gradient(brown, coral);
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 60%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#website_name {
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+div {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#LOGO {
+    height: 400px;
+    width: 400px;
+}
